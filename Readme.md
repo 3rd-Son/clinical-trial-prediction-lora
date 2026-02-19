@@ -6,7 +6,7 @@
 
 Train an AI to predict clinical trial outcomes with **73.3% accuracy** using automated dataset generation and LoRA fine-tuning. Built with [Lightning Rod Labs](https://www.lightningrod.ai/)' Future-as-Label methodology.
 
-📝 **[Read the full article on Medium](MY_MEDIUM_LINK)** | 📊 **[View Dataset](https://huggingface.co/datasets/3rdSon/clinical-trial-outcomes-predictions)**
+📝 **[Read the full article on Medium](https://medium.com/@3rdSon/training-ai-to-predict-clinical-trial-outcomes-a-30-improvement-in-3-hours-8326e78f5adc)** | 📊 **[View Dataset](https://huggingface.co/datasets/3rdSon/clinical-trial-outcomes-predictions)**
 
 ---
 
@@ -145,7 +145,7 @@ clinical-trial-prediction-lora/
 ### This Project
 - 🤖 [Model on Hugging Face](https://huggingface.co/3rdSon/clinical-trial-lora-llama3-8b)
 - 📊 [Dataset on Hugging Face](https://huggingface.co/datasets/3rdSon/clinical-trial-outcomes-predictions)
-- 📝 [Full Article on Medium](MY_MEDIUM_LINK)
+- 📝 [Full Article on Medium](https://medium.com/@3rdSon/training-ai-to-predict-clinical-trial-outcomes-a-30-improvement-in-3-hours-8326e78f5adc)
 - 💻 [Code on GitHub](https://github.com/3rd-Son/clinical-trial-prediction-lora)
 
 ### Lightning Rod Labs
@@ -190,7 +190,8 @@ Built with [Lightning Rod Labs](https://www.lightningrod.ai/)' Future-as-Label m
 ## Contact
 
 **Victory Nnaji**  
-GitHub: [@3rdSon](https://github.com/3rd-Son) | Hugging Face: [@3rdSon](https://huggingface.co/3rdSon) | Medium: [YOUR_MEDIUM_PROFILE] | LinkedIn : [@Victory Nnaji](https://www.linkedin.com/in/3rdson/) 
+Email: 3rdson.ai@gmail.com  
+GitHub: [@3rdSon](https://github.com/3rd-Son) | Hugging Face: [@3rdSon](https://huggingface.co/3rdSon) | Medium: [https://medium.com/@3rdSon] | LinkedIn : [@Victory Nnaji](https://www.linkedin.com/in/3rdson/) 
 
 ---
 
@@ -198,7 +199,7 @@ GitHub: [@3rdSon](https://github.com/3rd-Son) | Hugging Face: [@3rdSon](https://
 
 ```bibtex
 @misc{nnaji2025clinical_trial_prediction,
-  author = {Victory},
+  author = {Victory Nnaji},
   title = {Clinical Trial Outcome Prediction with LoRA Fine-Tuning},
   year = {2025},
   howpublished = {\url{https://github.com/3rdSon/clinical-trial-prediction-lora}}

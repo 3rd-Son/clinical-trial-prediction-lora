@@ -165,7 +165,7 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 - 🤗 **Model:** [Hugging Face](https://huggingface.co/3rdSon/clinical-trial-lora-llama3-8b)
 - 📊 **Dataset:** [Hugging Face](https://huggingface.co/datasets/3rdSon/clinical-trial-outcomes-predictions)
 - 💻 **Code:** [GitHub](https://github.com/3rd-Son/clinical-trial-prediction-lora)
-- 📝 **Article:** [Medium](YOUR_MEDIUM_LINK)
+- 📝 **Article:** [Medium](https://medium.com/@3rdSon/training-ai-to-predict-clinical-trial-outcomes-a-30-improvement-in-3-hours-8326e78f5adc)
 
 ---
 
