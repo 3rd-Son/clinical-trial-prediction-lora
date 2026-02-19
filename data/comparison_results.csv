@@ -1,0 +1,207 @@
+Question,true_answer,baseline_prediction,finetuned_prediction,baseline_correct,finetuned_correct,improved,regressed
+"Will Pharnext announce positive topline results from its PREMIER Phase 3 clinical trial of PXT3003 for CMT1A by December 31, 2023?",0,1,1,False,False,False,False
+"Will Sarepta Therapeutics release results from its randomized trial of the gene therapy Elevidys in patients with Duchenne muscular dystrophy by December 31, 2023?",1,1,1,True,True,False,False
+"Will EIP Pharma (CervoMed) complete its Phase 2b clinical trial of neflamapimod for dementia with Lewy bodies by December 31, 2024?",1,1,0,True,False,False,False
+"Will argenx SE receive FDA approval for VYVGART Hytrulo in the treatment of chronic inflammatory demyelinating polyneuropathy (CIDP) by June 30, 2024?",1,1,1,True,True,False,False
+"Will Capricor Therapeutics report top-line data from Cohort A of the Phase 3 HOPE-3 clinical trial for CAP-1002 by December 31, 2024?",0,1,0,False,True,True,False
+"Will the FDA approve AbbVie's Rinvoq (upadacitinib) for the treatment of Crohn's disease by December 31, 2023?",1,1,1,True,True,False,False
+"Will Reata Pharmaceuticals' Skyclarys (omaveloxolone) receive European regulatory approval for the treatment of Friedreich's ataxia by March 31, 2024?",1,1,0,True,False,False,False
+"Will Biogen begin patient screening for its Phase 4 confirmatory study of ADUHELM (aducanumab-avwa) by May 31, 2022?",0,1,1,False,False,False,False
+"Will AbbVie's Rinvoq (upadacitinib) receive FDA approval for the treatment of alopecia areata by December 31, 2025?",0,1,1,False,False,False,False
+"Will UCB's Bimzelx (bimekizumab-bkzx) be commercially available for the treatment of plaque psoriasis in the United States by November 30, 2023?",1,1,1,True,True,False,False
+"Will ImmunityBio initiate a randomized registrational trial for Anktiva in BCG-unresponsive non-muscle-invasive bladder cancer with high-grade papillary disease by December 31, 2025?",0,1,0,False,True,True,False
+"Will Invex Therapeutics' Phase 3 IIH EVOLVE trial for Presendin meet its primary endpoint of reduction in intracranial pressure (ICP) by December 31, 2025?",0,1,1,False,False,False,False
+"Will Merck's pembrolizumab in combination with chemotherapy followed by olaparib maintenance receive FDA approval for the treatment of advanced ovarian cancer by December 31, 2025?",0,1,0,False,True,True,False
+"Will the FDA approve Eli Lilly's Alzheimer's drug donanemab for the treatment of early symptomatic Alzheimer's disease by July 31, 2024?",1,1,1,True,True,False,False
+"Will AstraZeneca's Phase 3 ADRIATIC trial for Imfinzi (durvalumab) result in FDA approval for limited-stage small cell lung cancer by December 31, 2024?",1,1,1,True,True,False,False
+"Will Stalicla initiate a Phase 3 clinical trial of mavoglurant for cocaine-use disorder by June 30, 2024?",0,1,0,False,True,True,False
+"Will PharmaTher Holdings initiate a Phase 3 clinical trial of Ketarx (ketamine) for levodopa-induced dyskinesia in Parkinson’s disease patients by December 31, 2025?",0,1,0,False,True,True,False
+"Will Kodiak Sciences initiate a Phase 2 clinical trial for KSI-501 in patients with diabetic macular edema by December 31, 2024?",0,1,1,False,False,False,False
+"Will Capillary Biomedical's pivotal trial for the SteadiFlow seven-day-wear infusion set complete data collection by December 31, 2024?",1,1,1,True,True,False,False
+Will the FDA issue a final decision to maintain the approval of Mifepristone for medication abortion through the end of 2024?,1,1,1,True,True,False,False
+"Will Roche receive FDA approval for etrolizumab (RG7413) for the treatment of Crohn's disease by December 31, 2024?",0,1,0,False,True,True,False
+"Will the FDA approve Novo Nordisk's Wegovy (semaglutide) for the treatment of obstructive sleep apnea by December 31, 2025?",0,1,1,False,False,False,False
+"Will the FDA approve Luye Pharma's ansofaxine (LY03005) for the treatment of major depressive disorder by December 31, 2025?",0,1,0,False,True,True,False
+"Will the FDA approve Verona Pharma's ensifentrine for the maintenance treatment of chronic obstructive pulmonary disease (COPD) by June 26, 2024?",1,1,1,True,True,False,False
+"Will Karuna Therapeutics' KarXT receive FDA approval for the treatment of schizophrenia by September 26, 2024?",1,1,1,True,True,False,False
+"Will the Phase 2 portion of TCR2 Therapeutics' gavo-cel trial (NCT03907852) for mesothelin-expressing solid tumors meet its primary endpoint of Overall Response Rate (ORR) by December 31, 2025?",0,1,0,False,True,True,False
+"Will NeuroSense Therapeutics advance its ALS drug candidate PrimeC into a Phase 3 clinical trial by December 31, 2024?",0,1,0,False,True,True,False
+"Will Pfizer's ongoing clinical trials for a combined flu and COVID-19 vaccine report a higher rate of systemic side effects in the control group than in the active group by December 31, 2025?",0,0,0,True,True,False,False
+"Will Novo Nordisk's Phase 3 ESSENCE trial for semaglutide in NASH achieve its primary endpoint for fibrosis improvement by June 30, 2025?",1,1,1,True,True,False,False
+"Will ImmunityBio's ANKTIVA be available for commercial use in the United States by May 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA maintain its full approval of mifepristone for medication abortion through December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve BioMarin Pharmaceutical's gene therapy for hemophilia A by June 30, 2023?",1,1,1,True,True,False,False
+Will the study of blood pressure and outcome after aneurysmal subarachnoid hemorrhage (DRKS00008749) demonstrate that a 14-day mean arterial pressure (MAP) ≥ 95 mmHg is independently associated with a poor functional outcome (mRS > 2) at 6 months?,1,1,1,True,True,False,False
+"Will the FDA grant full approval to fruquintinib for the treatment of adult patients with metastatic colorectal cancer by December 31, 2024?",1,1,0,True,False,False,False
+"Will Iovance Biotherapeutics report that the Phase 3 TILVANCE-301 trial for Amtagvi (lifileucel) met its primary endpoint by December 31, 2025?",0,1,0,False,True,True,False
+"Will Revolution Medicines report topline data from its RMC-4630-03 study of the SHP2 inhibitor by December 31, 2023?",0,1,1,False,False,False,False
+"Will ImmunoGen's Elahere (mirvetuximab soravtansine) meet its primary endpoints in clinical trials for platinum-sensitive, FR-α-positive ovarian cancer by December 31, 2026?",1,1,1,True,True,False,False
+"Will Day One Biopharmaceuticals receive FDA approval for tovorafenib for the treatment of pediatric low-grade glioma by June 30, 2024?",1,1,1,True,True,False,False
+"Will Bluebird Bio's Zynteglo (beti-cel) achieve more than $50 million in global net revenue for the fiscal year ending December 31, 2024?",1,1,1,True,True,False,False
+"Will Eli Lilly's tirzepatide receive European Medicines Agency (EMA) marketing authorization for the treatment of type 2 diabetes by December 31, 2022?",1,1,1,True,True,False,False
+"Will Journey Medical Corporation submit a New Drug Application (NDA) for DFD-29 to the FDA by December 31, 2023?",0,1,1,False,False,False,False
+"Will the FDA approve Karuna Therapeutics' xanomeline-trospium (KarXT) for the treatment of schizophrenia by December 31, 2024?",1,1,1,True,True,False,False
+"Will Kodiak Sciences announce that the DAYLIGHT Phase 3 trial of KSI-301 met its primary endpoint by March 31, 2023?",0,1,1,False,False,False,False
+"Will Johnson & Johnson and Legend Biotech announce that the Phase 3 CARTITUDE-4 trial of Carvykti met its primary endpoint by June 30, 2023?",1,1,1,True,True,False,False
+"Will the FDA approve AstraZeneca and Daiichi Sankyo's Datopotamab deruxtecan (Dato-DXd) for the treatment of advanced or metastatic non-small-cell lung cancer by December 31, 2024?",0,1,0,False,True,True,False
+"Will the FDA approve Eli Lilly's donanemab for the treatment of early symptomatic Alzheimer's disease by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA authorize an updated (bivalent) COVID-19 booster dose for children under 5 years of age by March 31, 2023?",1,1,1,True,True,False,False
+"Will Recursion Pharmaceuticals announce that its Phase 2 SYCAMORE trial of REC-994 for cerebral cavernous malformation met its primary endpoint by December 31, 2024?",1,1,0,True,False,False,False
+"Will Vaxart's oral norovirus vaccine candidate initiate a Phase 3 clinical trial by December 31, 2024?",0,1,0,False,True,True,False
+"Will Roche receive FDA clearance for an additional blood-based Alzheimer's disease diagnostic assay by December 31, 2024?",0,1,0,False,True,True,False
+"Will LegoChem Biosciences and Janssen's LCB84 Phase 1/2 clinical trial for Trop2-targeted ADC provide a primary endpoint readout by December 31, 2025?",0,0,0,True,True,False,False
+"Will China's National Medical Products Administration (NMPA) approve Legend Biotech's ciltacabtagene autoleucel (cilta-cel) for relapsed or refractory multiple myeloma by June 30, 2024?",0,1,1,False,False,False,False
+"Will the FDA approve Karuna Therapeutics' KarXT for the treatment of schizophrenia by September 26, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Moderna's updated mRNA flu vaccine application by December 31, 2025?",0,1,0,False,True,True,False
+"Will the FDA approve Bristol Myers Squibb's iberdomide for the treatment of relapsed/refractory multiple myeloma by December 31, 2025?",0,1,0,False,True,True,False
+"Will Eli Lilly's tirzepatide receive FDA approval for the treatment of obstructive sleep apnea by December 31, 2024?",1,1,1,True,True,False,False
+"Will AstraZeneca's Phase 3 ADRIATIC trial for durvalumab in limited-stage small-cell lung cancer meet its primary endpoint of overall survival by December 31, 2024?",1,1,1,True,True,False,False
+"Will Eisai and Biogen's lecanemab receive full FDA approval for the treatment of early Alzheimer's disease by July 31, 2023?",1,1,1,True,True,False,False
+"Will 9 Meters Biopharma release Phase 2 clinical results for vurolenatide in patients with short bowel syndrome by December 31, 2022?",1,1,1,True,True,False,False
+"Did scPharmaceuticals launch Furoscix (furosemide injection) in the United States by March 31, 2023?",1,1,1,True,True,False,False
+"Will Eli Lilly receive FDA approval for tirzepatide in the treatment of heart failure with preserved ejection fraction (HFpEF) by December 31, 2025?",0,0,0,True,True,False,False
+"Will a federal court order the FDA to withdraw its approval of mifepristone by December 31, 2023?",0,0,0,True,True,False,False
+"Will Eli Lilly's selpercatinib (Retevmo) receive expanded FDA approval for treatment-agnostic RET fusion-positive solid tumors by December 31, 2024?",1,1,1,True,True,False,False
+"Will AstraZeneca and Daiichi Sankyo's Phase 3 TROPION-Lung01 trial meet its primary endpoint of overall survival for datopotamab deruxtecan in patients with advanced non-small-cell lung cancer by December 31, 2024?",0,1,1,False,False,False,False
+"Will Zentalis Pharmaceuticals' ZN-c3 (azenosefertib) receive FDA approval for the treatment of any solid tumors by December 31, 2025?",0,1,0,False,True,True,False
+"Will the FDA approve Verona Pharma's ensifentrine for the treatment of COPD by its PDUFA date of June 26, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Regeneron Pharmaceuticals' odronextamab for the treatment of relapsed/refractory follicular lymphoma by December 31, 2025?",0,1,1,False,False,False,False
+"Will Novo Nordisk release top-line results for the ONWARDS 5 Phase 3a clinical trial of once-weekly insulin icodec by December 31, 2022?",1,1,1,True,True,False,False
+"Will Elicio Therapeutics and Angion complete their merger agreement to advance their cancer vaccine candidate by June 30, 2024?",1,1,1,True,True,False,False
+"Will Eisai and Biogen's Leqembi (lecanemab) receive a positive recommendation for use by the European Medicines Agency (EMA) by December 31, 2024?",1,1,0,True,False,False,False
+"Will the FDA approve Lykos Therapeutics' MDMA-assisted therapy for the treatment of PTSD by August 31, 2024?",0,1,0,False,True,True,False
+"Will LEO Pharma's tralokinumab (Adbry) receive FDA approval for the treatment of moderate-to-severe atopic dermatitis in pediatric patients aged 2 to 12 years by December 31, 2024?",0,1,1,False,False,False,False
+"Will Cybin initiate a Phase 3 clinical trial for CYB003 in patients with major depressive disorder by June 30, 2024?",0,1,0,False,True,True,False
+"Will the FDA grant traditional approval to Eli Lilly's Alzheimer's drug donanemab by December 31, 2023?",0,1,1,False,False,False,False
+"Will ABION's Phase 2 trial of ABN401 (NCT05541822) for MET Exon 14 skipping NSCLC report its primary endpoint results by December 31, 2025?",0,1,0,False,True,True,False
+"Will Novo Nordisk's FLOW trial results lead to FDA approval of Wegovy (semaglutide) for reducing the risk of major adverse cardiovascular events in patients with chronic kidney disease by December 31, 2024?",0,1,1,False,False,False,False
+"Will the FDA approve AstraZeneca's durvalumab (Imfinzi) for the treatment of advanced or recurrent mismatch repair-deficient (dMMR) endometrial cancer by December 31, 2025?",1,1,1,True,True,False,False
+"Will Viking Therapeutics initiate a Phase 3 clinical trial for VK2809 in patients with NASH by June 30, 2025?",0,1,0,False,True,True,False
+"Will 4D Molecular Therapeutics (4DMT) initiate its Phase 3 clinical trial of 4D-150 for wet age-related macular degeneration (wet AMD) by March 31, 2025?",1,1,1,True,True,False,False
+"Will the US FDA approve Avita Medical's RECELL Go marketing application by May 31, 2024?",1,1,1,True,True,False,False
+"Will Otsuka Pharmaceutical's Phase 3 trial of centanafadine for adolescents with ADHD meet its primary endpoint by June 30, 2025?",1,1,1,True,True,False,False
+"Will the FDA approve Pfizer's RSV vaccine for use in pregnant women to prevent RSV in infants by August 31, 2023?",1,1,1,True,True,False,False
+"Will Johnson & Johnson announce that the Phase 2b ANTHEM-UC trial of JNJ-2113 for ulcerative colitis met its primary endpoint by December 31, 2025?",1,1,0,True,False,False,False
+"Will ProJenX submit prosetin for FDA approval for the treatment of ALS by December 31, 2025?",0,1,0,False,True,True,False
+"Will Bristol Myers Squibb report results from its Phase 2 clinical trial of Sotyktu (deucravacitinib) for Crohn's disease by December 31, 2023?",1,1,0,True,False,False,False
+"Will Japan's regulatory authorities approve argenx's Vyvgart for the treatment of immune thrombocytopenia (ITP) by March 31, 2024?",1,1,1,True,True,False,False
+"Will Intellia Therapeutics initiate a Phase 3 clinical trial for NTLA-2002 in patients with hereditary angioedema by December 31, 2024?",1,1,1,True,True,False,False
+"Will American Gene Technologies initiate a Phase 2 clinical trial for its HIV cell therapy AGT103-T by December 31, 2024?",0,1,0,False,True,True,False
+"Will the FDA grant label expansion for Novo Nordisk's Wegovy (semaglutide) to include the reduction of major adverse cardiovascular events in adults with obesity but without diabetes by December 31, 2024?",1,1,1,True,True,False,False
+"Will Cassava Sciences' simufilam (PTI-125) receive FDA approval for the treatment of Alzheimer’s disease by December 31, 2025?",0,1,0,False,True,True,False
+"Will Viking Therapeutics' GLP-1/GIP receptor agonist VK2735 progress into Phase 3 clinical trials for obesity by December 31, 2024?",0,1,0,False,True,True,False
+"Will the FDA grant Emergency Use Authorization (EUA) for the Pfizer-BioNTech COVID-19 vaccine for children aged 6 months through 4 years by June 30, 2022?",1,1,1,True,True,False,False
+"Will TheracosBio announce results from a dedicated cardiovascular outcomes trial for Brenzavvy (bexagliflozin) by December 31, 2026?",0,1,0,False,True,True,False
+"Will MorphoSys submit an application for regulatory approval for pelabresib in the US or Europe by December 31, 2024?",0,1,0,False,True,True,False
+"Will Novo Nordisk publicly announce that the Phase 3b FLOW trial for semaglutide met its primary composite endpoint by June 30, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Novartis' Cosentyx (secukinumab) for the treatment of hidradenitis suppurativa by December 31, 2023?",1,1,1,True,True,False,False
+Will the InTandem neurorehabilitation system (NCT04121754) meet its primary endpoint of a significant increase in walking speed compared to active control by February 2024?,1,0,0,False,False,False,False
+"Will the FDA grant traditional approval to Eli Lilly's donanemab for the treatment of early-stage Alzheimer's disease by August 31, 2024?",1,1,1,True,True,False,False
+"Will Arcellx initiate its Phase 2 pivotal trial of CART-ddBCMA for the treatment of relapsed or refractory multiple myeloma by December 31, 2022?",1,1,1,True,True,False,False
+"Will Viking Therapeutics announce that its Phase 2 trial of oral VK2735 met its primary endpoint of statistically significant weight loss by December 31, 2024?",0,1,0,False,True,True,False
+"Will Eli Lilly's insulin efsitora alfa meet its primary endpoint of non-inferiority in HbA1c reduction in its Phase 3 trial by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve cilta-cel (ciltacabtagene autoleucel) for the treatment of relapsed/refractory multiple myeloma by February 28, 2022?",1,1,1,True,True,False,False
+"Will Lenz Therapeutics receive FDA approval for its presbyopia drug candidate LNZ100 by June 30, 2025?",0,1,0,False,True,True,False
+"Will the rEECur trial report that carbonplatin plus etoposide achieves a higher median overall survival than high-dose ifosfamide in patients with relapsed Ewing sarcoma by December 31, 2025?",0,1,0,False,True,True,False
+"Will Eisai and Biogen's subcutaneous formulation of lecanemab (Leqembi) receive FDA approval for the treatment of early Alzheimer's disease by December 31, 2024?",0,1,0,False,True,True,False
+"Will the Phase 1/2 clinical trial (NCT04633252) investigating PDS0301 in combination with docetaxel for metastatic prostate cancer reach its primary completion date by December 31, 2025?",1,1,0,True,False,False,False
+"Will Iveric Bio (an Astellas Company) receive FDA supplemental New Drug Application (sNDA) approval for IZERVAY (avacincaptad pegol) for the treatment of geographic atrophy secondary to age-related macular degeneration based on the 24-month Phase 3 GATHER2 data by February 28, 2025?",1,1,1,True,True,False,False
+"Will Addimmune initiate its Phase 2 clinical trial for the HIV gene therapy AGT103-T by June 30, 2025?",0,1,0,False,True,True,False
+"Will Kyverna Therapeutics initiate clinical testing for its allogeneic CAR T-cell therapy candidate KYV-201 by December 31, 2024?",0,1,1,False,False,False,False
+"Will the FDA approve Geron Corporation's imetelstat for the treatment of transfusion-dependent anemia in patients with lower-risk myelodysplastic syndromes (MDS) by June 30, 2024?",1,1,0,True,False,False,False
+"Will Senhwa Biosciences initiate a Phase 2 clinical trial for CX-5461 (Pidanicline) in patients with solid tumors by December 31, 2025?",0,1,1,False,False,False,False
+"Will the U.S. Supreme Court issue a ruling that maintains the FDA approval and current distribution 2021-2023 protocols for Danco Laboratories' mifepristone by June 30, 2024?",1,1,1,True,True,False,False
+"Will InhaleRx complete the Phase 2 clinical trial for its panic disorder treatment IRX-616a by December 31, 2025?",0,1,0,False,True,True,False
+"Will Eisai and Biogen's Clarity AD Phase 3 trial of lecanemab meet its primary endpoints by December 31, 2022?",1,1,1,True,True,False,False
+"Will the FDA approve Novo Nordisk's Wegovy (semaglutide) for the reduction of major adverse cardiovascular events in adults with established cardiovascular disease and obesity by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve AstraZeneca and MSD's olaparib (Lynparza) in combination with abiraterone for the treatment of metastatic castration-resistant prostate cancer by June 30, 2023?",1,1,1,True,True,False,False
+"Will AstraZeneca and Daiichi Sankyo's datopotamab deruxtecan (Dato-DXd) receive FDA approval for the treatment of advanced non-small-cell lung cancer by December 31, 2024?",0,1,0,False,True,True,False
+"Will bluebird bio report updated 5-year primary endpoint data for its Zynteglo clinical trials by December 31, 2024?",1,1,1,True,True,False,False
+"Will Rani Therapeutics initiate its Phase 2 clinical trial for RT-102, an oral formulation of human parathyroid hormone, by December 31, 2023?",0,1,1,False,False,False,False
+"Will the FDA grant de novo authorization or clearance for Apple's AirPods Pro to function as clinical-grade over-the-counter hearing aids by December 31, 2024?",1,1,0,True,False,False,False
+"Will Avidity Biosciences announce that delpacibart braxlosiran (del-brax) has advanced to a Phase 3 clinical trial for facioscapulohumeral muscular dystrophy by December 31, 2025?",1,1,1,True,True,False,False
+"Will Eli Lilly's Phase 3 SUMMIT trial of tirzepatide in patients with heart failure with preserved ejection fraction (HFpEF) and obesity meet its primary endpoints by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Merck's pembrolizumab for the perioperative treatment of resectable non-small cell lung cancer (NSCLC) by December 31, 2024?",1,1,1,True,True,False,False
+"Will Tetra Bio-Pharma’s inhaled cannabinoid drug QIXLEEF receive FDA approval for pain management by December 31, 2025?",0,1,0,False,True,True,False
+"Will GE Healthcare and Lantheus receive FDA approval for [18F]flurpiridaz PET radiotracer for the detection of coronary artery disease by December 31, 2024?",1,1,0,True,False,False,False
+"Will Capricor Therapeutics' Phase 3 HOPE-3 trial for CAP-1002 in Duchenne Muscular Dystrophy meet its primary endpoint of change in Upper Limb Function (PUL 2.0) by December 31, 2024?",0,1,0,False,True,True,False
+"Will the PREPARE (PREemptive Pharmacogenomic Testing for Preventing Adverse Drug Reactions) multi-center study meet its primary endpoint of significantly reducing clinically relevant adverse drug reactions by December 31, 2023?",1,1,0,True,False,False,False
+"Will Bristol Myers Squibb initiate a Phase 3 clinical trial for its BCMA x CD3 T-cell engager in patients with multiple myeloma by December 31, 2024?",0,1,1,False,False,False,False
+"Will Medtronic's AI-assisted colonoscopy system successfully meet its primary endpoint in a multi-center Phase 3 trial by December 31, 2025?",1,1,1,True,True,False,False
+"Will Roche's SKYSCRAPER-01 Phase 3 trial of tiragolumab meet its primary endpoint of overall survival by December 31, 2024?",0,1,0,False,True,True,False
+"Will Karyopharm Therapeutics announce top-line data from the Phase 3 XPORT-MF-034 trial of selinexor and ruxolitinib by December 31, 2025?",0,1,0,False,True,True,False
+"Will Aclaris Therapeutics report that its phase 2b trial of ATI-1777 in atopic dermatitis met its primary endpoint by December 31, 2023?",0,1,0,False,True,True,False
+"Will Eli Lilly's Phase 3 SUMMIT trial for tirzepatide in patients with heart failure with preserved ejection fraction (HFpEF) meet its primary endpoints by December 31, 2024?",1,1,1,True,True,False,False
+"Will Roche and Alnylam's Phase 2 KARDIA-2 trial of zilebesiran for hypertension meet its primary endpoint by June 30, 2024?",1,1,1,True,True,False,False
+"Will Capricor Therapeutics' Phase 3 HOPE-3 trial for CAP-1002 in Duchenne Muscular Dystrophy meet its primary endpoint of change in Upper Limb Function (PUL 2.0) by December 31, 2024?",0,1,0,False,True,True,False
+"Will Exonate initiate a Phase 2 clinical trial for its lead ophthalmology candidate EXN407 by December 31, 2024?",0,1,0,False,True,True,False
+"Will AbbVie's Atogepant receive marketing authorization from the European Commission for the prophylaxis of migraine by September 30, 2023?",1,1,1,True,True,False,False
+"Will Novo Nordisk submit its CagriSema weight loss drug for regulatory approval by December 31, 2025?",1,1,1,True,True,False,False
+"Will the FDA grant marketing authorization to Nyxoah's Genio hypoglossal nerve stimulation system for the treatment of obstructive sleep apnoea by December 31, 2025?",1,1,0,True,False,False,False
+"Will Autolus Therapeutics' obe-cel (obecabtagene autoleucel) receive FDA approval for the treatment of adult B-cell acute lymphoblastic leukemia by November 30, 2024?",1,1,1,True,True,False,False
+"Will Johnson & Johnson's nipocalimab receive FDA approval for the treatment of generalized myasthenia gravis (gMG) by December 31, 2025?",1,1,1,True,True,False,False
+"Will Glaukos Corporation receive FDA approval for iDose TR (travoprost intracameral implant) for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension by December 31, 2023?",1,1,1,True,True,False,False
+"Will the University of Leeds and its partners publish final survival outcome data for the FOXTROT colon cancer trial in a peer-reviewed journal by December 31, 2024?",0,1,1,False,False,False,False
+"Will AstraZeneca's Phase 3 datopotamab deruxtecan (Dato-DXd) receive FDA approval for metastatic non-small cell lung cancer by December 31, 2024?",0,1,0,False,True,True,False
+"Will the FDA's finalized rule allowing over-the-counter sales of hearing aids for mild to moderate hearing loss take effect by October 31, 2022?",1,1,1,True,True,False,False
+"Will the FDA approve Axsome Therapeutics' AXS-05 for the treatment of major depressive disorder by June 30, 2022?",0,1,1,False,False,False,False
+"Will Molecure initiate its Phase 2 clinical trial of OATD-01 in patients with sarcoidosis by December 31, 2023?",0,1,1,False,False,False,False
+"Will leading drugmaker Novo Nordisk receive FDA approval for a new indication for Wegovy (semaglutide) to reduce cardiovascular risk in adults with obesity by December 31, 2024?",1,1,1,True,True,False,False
+"Will Viking Therapeutics' VK2735 meet its primary endpoint in the Phase 2 VENTURE trial for obesity by June 30, 2024?",1,1,0,True,False,False,False
+"Will Alzheon Inc. announce that its Phase 3 APOLLOE4 trial of ALZ-801 (valiltramiprosate) met its primary endpoint for Alzheimer's disease by December 31, 2024?",0,1,0,False,True,True,False
+"Will Neuraly initiate a Phase 3 clinical trial of NLY01 for the treatment of Parkinson's disease by December 31, 2025?",0,1,0,False,True,True,False
+"Will Citius Pharmaceuticals submit a New Drug Application (NDA) to the FDA for Mino-Lok by December 31, 2024?",0,1,1,False,False,False,False
+"Will Biogen and Eisai receive FDA approval for the subcutaneous formulation of Leqembi (lecanemab) for the treatment of Alzheimer's disease by March 31, 2025?",0,1,1,False,False,False,False
+"Will AstraZeneca's Phase 3 TROPION-Lung01 trial for datopotamab deruxtecan meet its overall survival primary endpoint by December 31, 2024?",0,1,0,False,True,True,False
+"Will Goldfinch Bio report the full Phase 2 trial readout for GFB-887 in patients with focal segmental glomerulosclerosis (FSGS) by June 30, 2023?",0,1,1,False,False,False,False
+"Will AstraZeneca's Phase 3 ADRIATIC trial results lead to FDA approval of Imfinzi for limited-stage small cell lung cancer by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Menarini and Radius Health's oral SERD elacestrant for patients with ER-positive, HER2-negative advanced breast cancer by February 28, 2023?",1,1,1,True,True,False,False
+"Will Summit Therapeutics announce that the HARMONi-T Phase 3 trial of ivonescimab met its primary endpoint for overall survival by December 31, 2025?",1,1,0,True,False,False,False
+"Will the Australian Therapeutic Goods Administration (TGA) approve Biogen's aducanumab for the treatment of Alzheimer's disease by December 31, 2022?",0,1,0,False,True,True,False
+"Will Novo Nordisk's Phase 3 REDEFINE-1 trial for CagriSema in obesity meet its primary endpoint of mean percentage change in body weight by December 31, 2024?",1,1,1,True,True,False,False
+"Will IO Biotech's Phase 3 Keynote-D18 trial of IO102-IO103 meet its primary endpoint of progression-free survival (PFS) by June 30, 2025?",0,1,0,False,True,True,False
+"Will Novo Nordisk's FLOW Phase 3 trial (NCT03819153) for Ozempic achieve primary completion by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve CymaBay Therapeutics' seladelpar for the treatment of primary biliary cholangitis by December 31, 2024?",1,1,0,True,False,False,False
+"Will Sanofi's rilzabrutinib receive FDA approval for the treatment of sickle cell disease by December 31, 2026?",0,1,0,False,True,True,False
+"Will the FDA approve Mitsubishi Tanabe Pharma America's oral formulation of edaravone (MT-1186) for the treatment of ALS by its PDUFA date of May 12, 2022?",1,1,0,True,False,False,False
+"Will the final results of the Phase 3 clinical trial for CVO PLUS CURATIF capsules be published in a peer-reviewed journal such as BMC Infectious Diseases by December 31, 2024?",1,1,1,True,True,False,False
+"Will Applied Therapeutics' govorestat receive FDA approval for the treatment of galactosemia by its PDUFA date of November 28, 2024?",0,1,0,False,True,True,False
+"Will BridgeBio Pharma's Phase 3 trial for acoramidis in ATTR-CM receive FDA approval by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA grant traditional (full) approval to Eisai and Biogen's lecanemab for the treatment of Alzheimer’s disease by July 31, 2023?",1,1,1,True,True,False,False
+"Will Lyell Immunopharma initiate clinical trials for its second-generation ROR1 CAR-T, LYL119, by December 31, 2024?",1,1,1,True,True,False,False
+"Will Entero Therapeutics commence its Phase 3 clinical program for latiglutenase by September 30, 2025?",0,1,0,False,True,True,False
+"Will Novo Nordisk's Phase 3 REDEFINE 1 trial for cagrilintide and semaglutide (CagriSema) in obesity meet its primary endpoint of percentage change in body weight by December 31, 2024?",1,1,1,True,True,False,False
+"Will Eli Lilly's SURMOUNT-5 Phase 3 clinical trial for tirzepatide in obesity report primary endpoint results by June 30, 2025?",1,1,1,True,True,False,False
+"Will Akero Therapeutics initiate a Phase 3 trial for efruxifermin (EFX) in patients with nonalcoholic steatohepatitis (NASH) by December 31, 2023?",0,1,1,False,False,False,False
+"Did the FDA approve Regeneron's Eylea HD (aflibercept 8mg) for the treatment of wet age-related macular degeneration by August 31, 2023?",1,1,1,True,True,False,False
+"Will Takeda and HUTCHMED's fruquintinib receive FDA approval for the treatment of adult patients with metastatic colorectal cancer by December 31, 2024?",1,1,0,True,False,False,False
+"Will Beacon Biosignals receive FDA 510(k) clearance for an updated version of its machine learning-based neurodiagnostic platform by December 31, 2025?",1,1,0,True,False,False,False
+"Will Iveric Bio receive FDA approval for avacincaptad pegol for the treatment of geographic atrophy by December 31, 2023?",1,1,0,True,False,False,False
+"Will Novo Nordisk's Phase 3 ESSENCE trial for semaglutide in non-alcoholic steatohepatitis (NASH) report positive results for its primary endpoint by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Lykos Therapeutics' MDMA-assisted therapy for the treatment of post-traumatic stress disorder (PTSD) by August 31, 2024?",0,1,0,False,True,True,False
+Did Sinocelltech's SCTV01E Phase 3 trial (NCT05308576) meet its primary endpoint of vaccine efficacy by achieving a lower 95% confidence interval bound greater than 30%?,1,1,0,True,False,False,False
+"Will Cybin initiate a Phase 3 clinical trial for CYB003 in patients with major depressive disorder by December 31, 2024?",1,1,0,True,False,False,False
+"Will FibroGen's pamrevlumab Phase 3 trial for locally advanced unresectable pancreatic cancer (LAPC) meet its primary endpoint by September 30, 2024?",0,1,0,False,True,True,False
+"Will UCB's zilucoplan (Zystig) receive FDA approval for an expanded indication in pediatric generalized myasthenia gravis by December 31, 2025?",0,1,0,False,True,True,False
+"Will CimCure's lead cancer vaccine candidate enter Phase 1 clinical trials by December 31, 2025?",1,1,1,True,True,False,False
+"Will Henlius submit a Biologics License Application (BLA) to the FDA for HANSIZHUANG (serplulimab) as a treatment for ES-SCLC by December 31, 2024?",0,1,1,False,False,False,False
+"Will Bristol Myers Squibb and Johnson & Johnson announce the start of a Phase 3 clinical trial for the Factor XIa inhibitor milvexian by December 31, 2022?",0,1,1,False,False,False,False
+"Will the FDA approve Madrigal Pharmaceuticals' resmetirom (Rezdiffra) for the treatment of NASH with liver fibrosis by June 30, 2024?",1,1,1,True,True,False,False
+"Will Eli Lilly's Phase 3 EMBER-4 trial for breast cancer meet its primary endpoint by December 31, 2025?",0,1,1,False,False,False,False
+"Will Jazz Pharmaceuticals receive FDA approval for Zepzelca (lurbinectedin) in combination with atezolizumab for the first-line maintenance treatment of extensive-stage small cell lung cancer by December 31, 2025?",1,1,0,True,False,False,False
+"Will the FDA approve the combination of PADCEV (enfortumab vedotin-ejfv) and KEYTRUDA (pembrolizumab) for the first-line treatment of adult patients with advanced bladder cancer by December 31, 2024?",1,1,1,True,True,False,False
+"Will the FDA approve Ipsen and GENFIT’s elafibranor for the treatment of primary biliary cholangitis by December 31, 2024?",1,1,0,True,False,False,False
+"Will Takeda's Eohilia (budesonide oral suspension) be available for commercial use in the United States by February 29, 2024?",1,1,1,True,True,False,False
+"Will Boston Scientific's AGENT IDE trial publish 2nd-year follow-up results for the primary endpoint of target lesion failure by March 31, 2025?",1,1,1,True,True,False,False
+"Will NervGen Pharma initiate its Phase 1b/2a clinical trial of NVG-291 for spinal cord injury at Shirley Ryan AbilityLab by December 31, 2022?",0,1,0,False,True,True,False
+"Will Ferrer's cardiovascular polypill (Trinomia/SNC) receive FDA approval for secondary prevention of cardiovascular events by December 31, 2025?",0,1,0,False,True,True,False
+"Will the FDA approve Lykos Therapeutics' MDMA-assisted therapy for the treatment of PTSD by December 31, 2024?",0,1,0,False,True,True,False
+"Will Sage Chemical's generic apomorphine hydrochloride injection cartridges be available for commercial distribution in the United States by December 31, 2022?",1,1,1,True,True,False,False
+"Will Sage Therapeutics and Biogen commercially launch Zurzuvae (zuranolone) for the treatment of postpartum depression by December 31, 2023?",1,1,1,True,True,False,False
+"Will the UK's National Institute for Health and Care Excellence (NICE) issue a final positive recommendation for the NHS use of Eisai's Leqembi (lecanemab) by June 30, 2025?",0,1,1,False,False,False,False
+"Will the FDA approve Biogen's tofersen (QALSODY) for the treatment of SOD1-ALS by January 31, 2023?",0,1,0,False,True,True,False
+"Will Oculis commence Stage 2 of the Phase 3 DIAMOND clinical trial for OCS-01 in patients with Diabetic Macular Edema by December 31, 2023?",1,1,1,True,True,False,False
+"Will Legend Biotech and Janssen's CAR-T therapy, ciltacabtagene autoleucel (cilta-cel), receive marketing authorization from the European Commission by December 31, 2022?",1,1,1,True,True,False,False
+"Will the FDA approve Vistagen's nasal spray fasedienol (PH94B) for the treatment of social anxiety disorder by December 31, 2025?",0,1,0,False,True,True,False
+"Will Immunic's Phase 2 CALLIPER trial of vidofludimus calcium in progressive multiple sclerosis meet its primary endpoint of reduction in brain atrophy by December 31, 2025?",0,1,0,False,True,True,False
+"Will Moffitt Cancer Center report that its Phase 2 adaptive therapy trial (NCT02415621) for metastatic castration-resistant prostate cancer met its primary endpoint of improved time to progression by December 31, 2024?",0,1,0,False,True,True,False
