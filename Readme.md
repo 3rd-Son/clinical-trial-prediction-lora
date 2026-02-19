@@ -189,7 +189,7 @@ Built with [Lightning Rod Labs](https://www.lightningrod.ai/)' Future-as-Label m
 
 ## Contact
 
-**Victory Nwani**  
+**Victory Nnaji**  
 GitHub: [@3rdSon](https://github.com/3rd-Son) | Hugging Face: [@3rdSon](https://huggingface.co/3rdSon) | Medium: [YOUR_MEDIUM_PROFILE] | LinkedIn : [@Victory Nnaji](https://www.linkedin.com/in/3rdson/) 
 
 ---
